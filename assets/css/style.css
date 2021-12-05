@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../img/background.jpg);
+    font-family: 'Orbitron', sans-serif;
+    background-size: 100%;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+button:hover {
+    background-color: rgb(131, 202, 235);
+}
+
+
